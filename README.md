@@ -15,3 +15,11 @@
 - Monitor your GitHub activity
 - Clean and user-friendly design
 - Progressive web app feature
+
+  To run this application on your local machine run these two commands in the terminal
+  -first, check the right directory of your project in which you are going to run commands
+  i->npm install
+  ii->npm run start
+
+  🚴DEPLOUMENT LINK-https://rajesh3815.github.io/wdp-main-projesct/
+  
