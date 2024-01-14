@@ -18,9 +18,9 @@
 
   -To run this application on your local machine run these two commands in the terminal.
   
-  first, check the right directory of your project in which you are going to run commands
-  i->npm install
-  ii->npm run start
+ - first, check the right directory of your project in which you are going to run commands
+ - i->npm install
+ -ii->npm run start
 
   🚴DEPLOYMENT LINK-https://rajesh3815.github.io/wdp-main-projesct/
   
