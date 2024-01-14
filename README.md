@@ -20,7 +20,7 @@
   
  - first, check the right directory of your project in which you are going to run commands
  - i->npm install
- -ii->npm run start
+ - ii->npm run start
 
   🚴DEPLOYMENT LINK-https://rajesh3815.github.io/wdp-main-projesct/
   
